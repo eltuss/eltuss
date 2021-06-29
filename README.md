@@ -1,12 +1,13 @@
-- <h1 align="center">Olá 👋, Eu sou Elton Barbosa</h1>
-  <h3 align="center">Iniciante no Mundo da Programação</h3>
+<h1 align="center">Olá 👋, Eu sou Elton Barbosa</h1>
+<h3 align="center">Iniciante no Mundo da Programação</h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltuss&label=Profile%20views&color=0e75b6&style=flat" alt="eltuss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltuss&label=Profile%20views&color=0e75b6&style=flat" alt="eltuss" /> </p>
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/elton-s-barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elton-s-barbosa" height="30" width="40" /></a>
-  </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/elton-s-barbosa" target="blank"><img align="center" src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-Logo-2003.jpg" alt="www.linkedin.com/in/elton-s-barbosa" height="50" width="80" /></a>
+<a href="https://www.facebook.com/elton.barbosa.52" target="blank"><img align="center" src="https://i0.wp.com/www.datacontrolma.com.br/wp-content/uploads/2016/12/logo-facebook.png"alt="https://www.facebook.com/elton.barbosa.52" height="40" width="40" /></a>
+</p>
 
 
   <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +16,4 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltuss&show_icons=true&locale=en&layout=compact" alt="eltuss" /></p>
 
   
+
